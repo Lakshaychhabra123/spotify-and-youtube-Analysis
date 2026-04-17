@@ -48,7 +48,7 @@ The analysis focuses on metrics such as views, likes, comments, and streaming pe
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository
 2. Install required libraries:
    ```bash
